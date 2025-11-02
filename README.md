@@ -508,7 +508,6 @@ const useAppStore = create<AppState>()(
   <p>This is a proof-of-concept demonstration. Do not use in production without:</p>
   <p>✓ Backend implementation &nbsp; ✓ Security audit &nbsp; ✓ Authentication &nbsp; ✓ Input sanitization &nbsp; ✓ Testing suite</p>
   <br />
-  <p>For detailed architecture, trade-offs, and future considerations, see <a href="./design_doc.md">design_doc.md</a></p>
+  <p>For more details, see <a href="./design_doc.md">design_doc.md</a></p>
   <br />
-  <p><em>Built with ❤️ as an architectural exploration</em></p>
 </div>
